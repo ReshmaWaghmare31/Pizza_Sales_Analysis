@@ -1,5 +1,5 @@
 # Pizza_Sales_Analysis
-#🚀 Excited to share my latest project : 🍕 Pizza Sales Analysis in SQL with Excel📊 📈
+🚀 Excited to share my latest project : 🍕 Pizza Sales Analysis in SQL with Excel📊 📈
 
 Objective
 The objective of conducting a pizza sales analysis using MySQL and Excel is to comprehensively evaluate and enhance the business's performance by leveraging detailed data insights. This analysis aims to assess overall sales trends, identify the most and least popular pizza varieties, and understand customer purchasing behaviors. By using MySQL and Excel to conduct a thorough analysis of pizza sales, the business can make informed decisions that lead to increased efficiency, profitability, and customer satisfaction.

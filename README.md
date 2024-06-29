@@ -27,10 +27,17 @@ Tools Used:
   
 𝐈𝐧𝐬𝐢𝐠𝐡𝐭𝐬:-
 🍕 Large Size pizzas are the most commonly ordered . Total Orders is 375318.
+
 🍕 The 𝐓𝐡𝐚𝐢 𝐂𝐡𝐢𝐜𝐤𝐞𝐧 𝐏𝐢𝐳𝐳𝐚 emerges as a top revenue generator
+
 🍕 Total Revenue generated from pizza sales is 817860.05
+
 🍕 The Greek Pizza is the Highest Priced pizza while The pepperoni Pizza is the Lowest Priced Pizza.
+
 🍕 The Classic Deluxe Pizza is the most ordered type, Having 𝟐𝟒𝟓𝟑 orders.
+
 🍕 Classic pizza dominates total revenue with a contribution of 𝟐𝟔.𝟗𝟏%.
+
 🍕 The Day of Friday And Thursday has the highest Number of Orders.
+
 🍕 The months of July and May record the highest number of orders,  while September and October see the lowest. 

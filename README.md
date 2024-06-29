@@ -7,17 +7,29 @@ The objective of conducting a pizza sales analysis using MySQL and Excel is to c
 The Analysis Covers :
 
 •	Total Revenue
+
 •	Average  Order Value
+
 •	Total Pizza Sold
+
 •	Total Orders
+
 •	Average  Pizza  Sold per  Order.
+
 •	Highest  / Lowest Priced  Pizza
+
 •	Daily / Hourly / Monthly Trend for Total Orders
+
 •	Percentage of Sales by Pizza Category
+
 •	Percentage of Sales by Pizza Size
+
 •	Total Pizzas Sold by Pizza Category
+
 •	Top 5 / Bottom 5 : Sellers by Quantity
+
 •	Top 5 / Bottom 5: Sellers by Total Orders
+
 •	Top 5 / Bottom 5 : Sellers by Revenue
 
 Tools Used:
